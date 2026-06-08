@@ -16,7 +16,7 @@ This project provides an implementation of **Genetic Algorithms**, demonstrating
 ```
 .
 ├── README.md
-├── 05_-_Genetic_Algorithm.ipynb    # Main notebook with theory and examples
+├── Genetic_Algorithm.ipynb    # Main notebook with theory and examples
 └── csv file                          # Sample datasets (if any)
 ```
 
@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ### Running the Notebook
 
 ```bash
-jupyter notebook 05_-_Genetic_Algorithm.ipynb
+jupyter notebook  Genetic_Algorithm.ipynb
 ```
 
 Navigate through the cells to explore:
